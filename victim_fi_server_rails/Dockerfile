@@ -1,4 +1,4 @@
-FROM ruby:2.6.3
+FROM ruby:2.7.6
 
 LABEL maintainer="secf00tprint@gmail.com"
 
