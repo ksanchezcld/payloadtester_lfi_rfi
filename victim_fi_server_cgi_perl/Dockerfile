@@ -1,4 +1,4 @@
-FROM httpd:2.4.39
+FROM httpd:2.4.58
 
 LABEL maintainer="secf00tprint@gmail.com"
 
