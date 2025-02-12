@@ -1,4 +1,4 @@
-FROM tomcat:9.0.21
+FROM tomcat:9.0.99
 
 LABEL maintainer="secf00tprint@gmail.com"
 
